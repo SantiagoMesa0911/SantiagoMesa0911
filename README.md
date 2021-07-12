@@ -13,7 +13,7 @@ Técnico en desarrollo de software con alto sentido de responsabilidad, compromi
   * Python
   
   
-- 🔭 Actualmente estoy trabajando en MGPANEL
+🔭 Actualmente estoy trabajando en MGPANEL
 
 <!--
 **SantiagoMesa0911/SantiagoMesa0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
