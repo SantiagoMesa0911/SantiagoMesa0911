@@ -6,11 +6,11 @@
 
 Técnico en desarrollo de software con alto sentido de responsabilidad, compromiso, honestidad y capacidad para trabajar en equipo con aptitudes para el desarrollo de planes en mira a la solución de problemas.
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+* Lenguajes de progamacion 
+  * PHP
+  * Javascript
+  * Java
+  * Python
 <!--
 **SantiagoMesa0911/SantiagoMesa0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
