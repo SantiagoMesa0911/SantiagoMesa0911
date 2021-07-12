@@ -6,11 +6,11 @@
 
 Técnico en desarrollo de software con alto sentido de responsabilidad, compromiso, honestidad y capacidad para trabajar en equipo con aptitudes para el desarrollo de planes en mira a la solución de problemas.
 
-* Lenguajes de progamacion 
-  * PHP
-  * Javascript
-  * Java
-  * Python
+1 Lenguajes de progamacion 
+  1 PHP
+  1 Javascript
+  1 Java
+  1 Python
 <!--
 **SantiagoMesa0911/SantiagoMesa0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
