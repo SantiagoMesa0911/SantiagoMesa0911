@@ -17,8 +17,10 @@ Técnico en desarrollo de software con alto sentido de responsabilidad, compromi
 
 🌱 Actualmente estoy aprendiendo Javascript y sus frameworks
 
-😄 Pronouns:  
-*Coscu 
+😄 Apodos:  
+   * Coscu 
+   * Mesa
+   
 
 
 
