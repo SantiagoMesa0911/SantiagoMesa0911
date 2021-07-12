@@ -15,7 +15,7 @@ Técnico en desarrollo de software con alto sentido de responsabilidad, compromi
   
 🔭 Actualmente estoy trabajando en MGPANEL
 
-🌱 Actualmente estoy aprendiendo Javascript
+🌱 Actualmente estoy aprendiendo Javascript y sus frameworks
 
 <!--
 **SantiagoMesa0911/SantiagoMesa0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
