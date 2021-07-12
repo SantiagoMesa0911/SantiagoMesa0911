@@ -6,7 +6,7 @@
 
 Técnico en desarrollo de software con alto sentido de responsabilidad, compromiso, honestidad y capacidad para trabajar en equipo con aptitudes para el desarrollo de planes en mira a la solución de problemas.
 
- Lenguajes de progamacion 
+ Lenguajes de progamación 
   * PHP
   * Javascript
   * Java
@@ -15,7 +15,9 @@ Técnico en desarrollo de software con alto sentido de responsabilidad, compromi
   
 🔭 Actualmente estoy trabajando en MGPANEL
 
-🌱 Actualmente estoy aprendiendo Javascript y sus frameworks
+🌱 Actualmente estoy aprendiendo 
+   * Javascript y sus frameworks
+   * Creacion de API
 
 😄 Apodos:  
    * Coscu 
