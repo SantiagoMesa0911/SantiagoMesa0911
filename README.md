@@ -2,6 +2,9 @@
 
 ### BIENVENIDOS A MI PERFIL
 
+
+
+Técnico en desarrollo de software con alto sentido de responsabilidad, compromiso, honestidad y capacidad para trabajar en equipo con aptitudes para el desarrollo de planes en mira a la solución de problemas.
 <!--
 **SantiagoMesa0911/SantiagoMesa0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
