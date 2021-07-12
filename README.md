@@ -1,5 +1,5 @@
 
-![GitHub Logo](Captura.png)
+![GitHub Logo](Captura.PNG)
 ### BIENVENIDOS A MI PERFIL
 
 
