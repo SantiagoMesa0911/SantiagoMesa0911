@@ -10,8 +10,7 @@ Técnico en desarrollo de software con alto sentido de responsabilidad, compromi
   * PHP
   * Javascript
   * Java
-  * Python
-  
+
   
 🔭 Actualmente estoy trabajando en MGPANEL
 
