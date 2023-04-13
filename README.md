@@ -9,7 +9,8 @@ Técnico en desarrollo de software con alto sentido de responsabilidad, compromi
  Lenguajes de progamación 
   * PHP
   * Javascript
-  * Java
+  * NodeJS
+  
 
   
 🔭 Actualmente estoy trabajando en MGPANEL
