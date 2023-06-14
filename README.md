@@ -11,6 +11,7 @@ Técnico en desarrollo de software con alto sentido de responsabilidad, compromi
   * Javascript
   * NodeJS
   * AngularJS
+  * Laravel
   
 
   
@@ -19,6 +20,7 @@ Técnico en desarrollo de software con alto sentido de responsabilidad, compromi
 🌱 Actualmente estoy aprendiendo 
    * Javascript y sus frameworks
    * Creacion de API
+   * Flutter
 
 😄 Apodos:  
    * Coscu 
