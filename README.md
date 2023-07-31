@@ -61,6 +61,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SantiagoMesa0911&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=200)]
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiagoMesa0911&theme=dracula&show_icons=true&card_width=200)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoMesa0911&layout=compact&theme=dracula&show_icons=true&card_width=200)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiagoMesa0911&theme=dracula&show_icons=true&card_width=200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoMesa0911&layout=compact&theme=dracula&show_icons=true&card_width=200)
 
