@@ -24,7 +24,7 @@
 <h3 align="center">Conéctese conmigo:</h3>
 
    
-<h4 align="left">FrontEnd</h4>
+<h4 align="center">FrontEnd</h4>
 
 
 <div aling="left">
