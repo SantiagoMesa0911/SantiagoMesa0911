@@ -61,5 +61,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SantiagoMesa0911&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoMesa0911&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
