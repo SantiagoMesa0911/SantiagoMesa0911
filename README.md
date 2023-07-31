@@ -61,11 +61,11 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SantiagoMesa0911&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=200)](https://git.io/streak-stats) <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/SantiagoMesa0911/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SantiagoMesa0911" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/SantiagoMesa0911/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoMesa0911&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
