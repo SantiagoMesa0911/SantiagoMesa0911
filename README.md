@@ -60,6 +60,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SantiagoMesa0911&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SantiagoMesa0911&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400)](https://git.io/streak-stats)
 
 
