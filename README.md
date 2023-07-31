@@ -8,14 +8,14 @@
 - 👨‍💻 Todos mis proyectos están disponibles en (SantiagoMesa0911)
 
 - 💬 Pregúntame sobre :
-- **HTML**
-- **CSS**
-- **JAVASCRIPT**
-- **ANGULAR**
-- **NODEJS**
-- **PHP**
-- **LARAVEL**
-- **FLLUTER**
+**HTML**
+**CSS**
+**JAVASCRIPT**
+**ANGULAR**
+**NODEJS**
+**PHP**
+**LARAVEL**
+**FLLUTER**
 
 - 📫Cómo contactarme **santiagomesa0911@gmail**.
 
