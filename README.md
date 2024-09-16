@@ -23,4 +23,11 @@ Puedes encontrar todos mis proyectos en mi [GitHub](https://github.com/SantiagoM
 ### 📫 Cómo contactarme:
 - Correo: santiagomesa0911@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SantiagoMesa0911&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+### 📊 Mis estadísticas de GitHub
+![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoMesa0911&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoMesa0911&layout=compact&theme=dracula)
+
+### 🔍 Resumen de mi perfil
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SantiagoMesa0911&theme=dracula)
+
+
