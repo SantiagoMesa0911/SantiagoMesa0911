@@ -23,4 +23,4 @@ Puedes encontrar todos mis proyectos en mi [GitHub](https://github.com/SantiagoM
 ### 📫 Cómo contactarme:
 - Correo: santiagomesa0911@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SantiagoMesa0911&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SantiagoMesa0911&theme=dracula&hide_border=true)](https://git.io/streak-stats)
