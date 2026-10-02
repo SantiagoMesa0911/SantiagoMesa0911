@@ -1,33 +1,84 @@
-# Hola, soy Santiago Mesa Parra 👋 
+#  Hola, soy Santiago Mesa
 
-Soy un desarrollador backend y frontend apasionado de Colombia, enfocado en la creación de API y aplicaciones backend que luego serán consumidas por sus frontends.
+### 💻 Full Stack Developer | .NET | Angular | Node.js | Azure
 
-### 🌱 Actualmente estoy aprendiendo:
-- Flutter
+Soy **Desarrollador de Software y Analista de Sistemas**, apasionado por crear soluciones que combinen **desarrollo, automatización, integración de sistemas y datos**.
 
-### 💻 Tecnologías y habilidades:
-- HTML, CSS, JavaScript
-- Angular, Node.js
-- PHP, Laravel
-- Flutter
+Actualmente trabajo con aplicaciones empresariales, procesos ETL, servicios cloud y bases de datos **SQL / NoSQL**, buscando siempre mejorar la eficiencia y calidad del software.
 
-### 💬 ¡Pregúntame sobre!
-Estoy aquí para ayudarte con cualquier duda relacionada con:
-- HTML, CSS, JavaScript
-- Angular, Node.js
-- PHP, Laravel
+---
+
+## 🚀 Sobre mí
+
+- 🔹 Backend con **.NET y Node.js**
+- 🔹 Frontend con **Angular**
+- 🔹 Cloud & automatización con **Microsoft Azure**
+- 🔹 Bases de datos **SQL / NoSQL**
+- 🔹 Procesos **ETL e integración de sistemas**
+- 🔹 Automatización y optimización de procesos
+- 🔹 Experiencia con **SAP ERP**
+- 🔹 En constante aprendizaje 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+`C#` `.NET` `Node.js` `REST APIs`
+
+**Frontend**
+
+`Angular` `TypeScript` `HTML` `CSS`
+
+**Cloud**
+
+`Microsoft Azure` `Data Factory` `Logic Apps` `Web Apps`
+
+**Data**
+
+`SQL Server` `MongoDB` `SQL` `NoSQL` `ETL`
+
+**Enterprise**
+
+`SAP ERP` `Integración` `Automatización`
+
+---
+
+## 📌 Actualmente
+
+🔭 Construyendo proyectos enfocados en **software, automatización y análisis de datos**.
+
+🌱 Profundizando en **arquitectura de software, Cloud, Backend y buenas prácticas**.
+
+💡 Me interesa transformar procesos complejos en soluciones **automatizadas, escalables y mantenibles**.
+
+---
+
+## 🎓 Formación
+
+🎓 Tecnología en Desarrollo de Software — IU Digital de Antioquia  
+☁️ Microsoft Azure AZ-900  
+☁️ Azure Data & Cloud  
+⚙️ DevOps  
+📊 SQL en Azure
+
+---
+
+## 📫 Conecta conmigo
+
+💼 [LinkedIn](https://www.linkedin.com/in/santiagomesa0911/)
+
+---
 
 ### 📂 Mis proyectos
 Puedes encontrar todos mis proyectos en mi [GitHub](https://github.com/SantiagoMesa0911).
 
-### 📫 Cómo contactarme:
-- Correo: santiagomesa0911@gmail.com
-
+> **"Construir software no es solo escribir código; es encontrar mejores formas de resolver problemas."**
 ### 📊 Mis estadísticas de GitHub
-![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoMesa0911&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoMesa0911&layout=compact&theme=dracula)
+[![Santiago's GitHub Stats](https://github-stats-extended.vercel.app/api?username=SantiagoMesa0911&rank_icon=github&show_icons=true&include_all_commits=true&theme=darcula)](https://github-stats-extended.vercel.app/api?username=SantiagoMesa0911&rank_icon=github&show_icons=true&include_all_commits=true&theme=darcula)
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=SantiagoMesa0911&layout=compact&langs_count=6&hide_values=true&theme=darcula)](https://github-stats-extended.vercel.app/api/top-langs?username=SantiagoMesa0911&layout=compact&langs_count=6&hide_values=true&theme=darcula)
 ### 🔍 Resumen de mi perfil
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SantiagoMesa0911&theme=dracula)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SantiagoMesa0911&theme=darcula&animation=load)
 
